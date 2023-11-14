@@ -1,1 +1,1 @@
-Test text file for repo.
+Test text file for repo. NEW TEXT.
